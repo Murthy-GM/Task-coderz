@@ -1,0 +1,21 @@
+.page-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    text-align: center; 
+  }
+  button {
+    margin-top: 10px; 
+  }
+  .text-information{
+    display: flex;
+    align-Items: center;
+    margin-Bottom:3rem;
+    border-radius: 4px;
+    background-color: buttonface;
+    margin-top: 2rem;
+    padding: 0 20px;
+  }
+  
